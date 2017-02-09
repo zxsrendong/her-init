@@ -1,0 +1,18 @@
+{
+    "name": "her-init",
+    "version": "0.0.7",
+    "description": "init a her project",
+    "author": {
+        "name": "zhangxiaosong",
+        "email": "zxsrendong@126.com, zxsrendong@gmail.com",
+        "url": ""
+    },
+    "main": "index.js",
+    "bin": {
+        "hi": "bin/hi.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
